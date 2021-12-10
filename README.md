@@ -5,3 +5,4 @@
 3.B里面的mouseMoveEvent里面的this->window()其实就是 A， 也可以写成parentWidget()
 
 4.demo是在win写的，mac没测
+![asd](https://user-images.githubusercontent.com/95737143/145504807-474fc872-96f8-4336-9cb6-31f44d2c0948.png)
